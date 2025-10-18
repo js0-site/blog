@@ -7,6 +7,8 @@
 
 ## volo-grpc 胶水
 
-## 如何获取请求头
+## 用户系统设计
 
-当参数名为 header_xxx 的时候, 会自动传入请求头 xxx
+`device_id` → `user_id`
+
+进程内缓存
