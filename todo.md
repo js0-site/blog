@@ -6,6 +6,7 @@
 - [ ] 发布文章到 reddit 和 hacknews 等网站的脚本
 - [ ] gway http - volo grpc 的网关
 - [ ] js - http - volo grpc 的前端调用
+- [ ] 确定从 rust 访问数据库的方案
 - [ ] 基于以上方案，实现网页加上 邮件订阅、退订的按钮
 - [ ] 验证码的实现
 - [ ] 用户系统的开发
