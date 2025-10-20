@@ -3,4 +3,6 @@
 - [ ] 博客的翻译
 - [ ] 网站的搭建
 - [ ] rust - volo_grpc 博客文章的撰写
-- [ ] rust - volo_grpc 博客文章的撰写
+- [ ] 发布文章到 reddit 和 hacknews 等网站的脚本
+- [ ] gway http - volo grpc 的网关
+- [ ] js - http - volo grpc 的前端调用
