@@ -6,4 +6,5 @@
 - [ ] 发布文章到 reddit 和 hacknews 等网站的脚本
 - [ ] gway http - volo grpc 的网关
 - [ ] js - http - volo grpc 的前端调用
-- [ ] 邮件订阅、退订的按钮，实现写为博客
+- [ ] 网页加上 邮件订阅、退订的按钮
+- [ ]
