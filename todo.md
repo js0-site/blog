@@ -1,4 +1,10 @@
-- [ ] 返回值支持 struct
+- [x] 返回值支持 struct
+
+
+- [ ] volo grpc 调用 token 验证中间件
+- [ ] gway 调用 captcha 验证中间件
+  把 captcha 放在 函数实现外面，这样 grpc 内部调用不需要输入 captcha
+
 - [ ] rs volo 文件的生成
 - [ ] 博客的翻译
 - [ ] 网站的搭建
